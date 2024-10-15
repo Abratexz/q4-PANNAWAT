@@ -1,0 +1,1 @@
+http://202.44.40.193/~aws/JSON/priv_hos.json
